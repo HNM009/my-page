@@ -1,0 +1,43 @@
+h1{
+    color:aquamarine;
+    margin-left: 60px;
+    border: solid;
+    
+    }
+    h2{
+    color:mediumvioletred
+    }
+    h3{
+    color:#ff0000
+    }
+.header{
+    background-color: rgb(73, 102, 169);
+    display: flex;
+    justify-content: space-between;
+}
+.hyperlinks a {
+    margin-right: 270px; 
+    border:solid
+}
+a:link{
+    color:rgb(255, 0, 0);
+}
+a:visited{
+    color:rgb(135, 0, 0);
+}
+body{
+    background-color: rgb(86, 86, 86);
+}
+.coisa{
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.item{
+    font-size: x-large;
+    color: rgb(107, 107, 210); 
+}
+
+.subtilt{
+    font-size: xx-large;
+color:rgb(102, 189, 108);
+}
